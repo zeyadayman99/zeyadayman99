@@ -2,7 +2,7 @@
 - 👀 I’m interested in both mobile app development and frontend testing
 - 🌱 I’m currently learning front end and performance testing Udacity Nanodegree
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/zeyad-ayman-909576176/
-- Gmail: ziadayman095@gmail.com
+- 📧 Gmail: ziadayman095@gmail.com
 - HackerRank profile: https://www.hackerrank.com/ziadayman095?hr_r=1
 
 <!---
